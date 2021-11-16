@@ -1,2 +1,3 @@
-# ColorMy View
-Android Kotlin Developer - Udacity Lesson 2b
+# Udacity Android Kotlin Developer Nanodegree
+## Lesson 2 - Layout
+### ColorMyViews
